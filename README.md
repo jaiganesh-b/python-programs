@@ -2,9 +2,4 @@
 
 👋 Hello
 
-This Repository is a Compilation of Python programs. </br>
-- Python is a High level language.
-- Python is very common in Rasberry pi systems.
-- It is one of the most popular language and is used on various domains like Machine Learning, IoT, Data Processing etc.
-- pip is a package manager used to manage Python libraries
-- There are various other package managers like Anaconda that can be used to manage Python libraries.
+This Repository is a Compilation of Python programs.
